@@ -27,6 +27,11 @@
     });
 
 
+    module.exports = {
+        app
+    };
+
+
     // let newUser = new User({
     //     email: '   rajeev@gmail.com   '
     // });
